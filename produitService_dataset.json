@@ -1,0 +1,320 @@
+[
+  {
+    "_id": {
+      "$oid": "000000000000000000000001"
+    },
+    "refProduit": "PROD-2024-005",
+    "typeProduit": "Riad",
+    "categorieLabel": "Hébergement",
+    "fournisseur": "Riad Dar Salam",
+    "ville": "Marrakech",
+    "tarifUHTPardefaut": 1450,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Nuit Suite Royale Riad",
+        "slogan": "Le luxe d'Orient",
+        "descriptifProduit": "Suite royale au cœur de la médina de Marrakech : décor d'Orient raffiné, piscine intérieure, terrasse et petit-déjeuner marocain. Idéal pour un séjour de luxe au calme."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000002"
+    },
+    "refProduit": "PROD-2024-007",
+    "typeProduit": "Hotel",
+    "categorieLabel": "Hébergement",
+    "fournisseur": "Surf Camp Taghazout",
+    "ville": "Taghazout",
+    "tarifUHTPardefaut": 780,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Chambre Double Vue Mer",
+        "slogan": "Réveillez-vous face à l'océan",
+        "descriptifProduit": "Chambre double avec balcon et vue directe sur l'Atlantique, à deux pas des spots de surf de Taghazout. Parfait pour allier détente et glisse."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000003"
+    },
+    "refProduit": "PROD-2024-012",
+    "typeProduit": "Restaurant",
+    "categorieLabel": "Restauration",
+    "fournisseur": "Restaurant Dar Moha",
+    "ville": "Marrakech",
+    "tarifUHTPardefaut": 520,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Dîner Gastronomique Dar Moha",
+        "slogan": "7 services revisitant la tradition",
+        "descriptifProduit": "Menu dégustation en 7 services de cuisine marocaine revisitée par le chef, servi dans un cadre raffiné de la médina. Tajines, pastilla et créations contemporaines."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000004"
+    },
+    "refProduit": "PROD-2024-003",
+    "typeProduit": "Artisanat",
+    "categorieLabel": "Artisanat",
+    "fournisseur": "Coopérative Argania",
+    "ville": "Agadir",
+    "tarifUHTPardefaut": 120,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Huile d'Argan Bio 100ml",
+        "slogan": "L'élixir de beauté pur",
+        "descriptifProduit": "Huile d'argan biologique 100 % pure, pressée à froid par une coopérative féminine du Souss. Cosmétique authentique, packaging soigné, certifiée bio."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000005"
+    },
+    "refProduit": "PROD-2024-014",
+    "typeProduit": "Artisanat",
+    "categorieLabel": "Artisanat",
+    "fournisseur": "Coopérative Argania",
+    "ville": "Agadir",
+    "tarifUHTPardefaut": 240,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Coffret Argan Découverte",
+        "slogan": "Trois huiles, une coopérative",
+        "descriptifProduit": "Coffret cadeau réunissant trois huiles d'argan (cosmétique, alimentaire, parfumée) issues d'une coopérative berbère. Idéal en souvenir ou en cadeau."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000006"
+    },
+    "refProduit": "PROD-2024-004",
+    "typeProduit": "Activitie",
+    "categorieLabel": "Trek",
+    "fournisseur": "Azur Expeditions",
+    "ville": "Imlil",
+    "tarifUHTPardefaut": 350,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Trek Atlas 3 Jours",
+        "slogan": "Au sommet de l'aventure",
+        "descriptifProduit": "Trek de 3 jours dans le Haut-Atlas avec guide certifié : villages berbères, cols panoramiques et nuit en gîte. Randonnée éco-responsable, niveau intermédiaire."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000007"
+    },
+    "refProduit": "PROD-2024-006",
+    "typeProduit": "Activitie",
+    "categorieLabel": "Trek",
+    "fournisseur": "Azur Expeditions",
+    "ville": "Imlil",
+    "tarifUHTPardefaut": 500,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Trek Atlas Groupe Privé",
+        "slogan": "Une aventure sur mesure dans le Haut-Atlas",
+        "descriptifProduit": "Trek privatisé et personnalisable dans le Haut-Atlas pour groupes : itinéraire sur mesure, rythme adapté, guide dédié. Tarif dégressif selon le nombre de participants."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000008"
+    },
+    "refProduit": "PROD-2024-015",
+    "typeProduit": "Activitie",
+    "categorieLabel": "Trek",
+    "fournisseur": "Guide Brahim Ait Ouahmane",
+    "ville": "Imlil",
+    "tarifUHTPardefaut": 1200,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Ascension Toubkal 2 Jours",
+        "slogan": "4167 m — au sommet de l'Afrique du Nord",
+        "descriptifProduit": "Ascension du Toubkal (4167 m), plus haut sommet d'Afrique du Nord, en 2 jours avec guide de montagne certifié. Refuge, lever de soleil au sommet, encadrement sécurisé."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000009"
+    },
+    "refProduit": "PROD-2024-010",
+    "typeProduit": "Activitie",
+    "categorieLabel": "Aventure",
+    "fournisseur": "Sahara Bivouac Merzouga",
+    "ville": "Merzouga",
+    "tarifUHTPardefaut": 680,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Bivouac Étoilé Merzouga",
+        "slogan": "Une nuit sous le ciel du Sahara",
+        "descriptifProduit": "Nuit en bivouac dans les dunes de Merzouga : balade à dos de dromadaire, feu de camp, dîner berbère et ciel étoilé du Sahara. Expérience inoubliable du désert."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000010"
+    },
+    "refProduit": "PROD-2024-011",
+    "typeProduit": "Activitie",
+    "categorieLabel": "Aventure",
+    "fournisseur": "Surf Camp Taghazout",
+    "ville": "Taghazout",
+    "tarifUHTPardefaut": 280,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Initiation Surf Taghazout",
+        "slogan": "Vos premières vagues atlantiques",
+        "descriptifProduit": "Session d'initiation au surf sur la côte atlantique de Taghazout : matériel fourni, moniteur diplômé, spots adaptés aux débutants. Convient à tous les niveaux."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000011"
+    },
+    "refProduit": "PROD-2024-013",
+    "typeProduit": "Activitie",
+    "categorieLabel": "Visite",
+    "fournisseur": "Eco-Tours Chefchaouen",
+    "ville": "Chefchaouen",
+    "tarifUHTPardefaut": 180,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Visite Médina Chefchaouen",
+        "slogan": "La perle bleue, sans foule",
+        "descriptifProduit": "Visite guidée à pied de la médina bleue de Chefchaouen, loin des foules : ruelles, artisanat local, points de vue photo. Tourisme durable et authentique."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000012"
+    },
+    "refProduit": "PROD-2024-016",
+    "typeProduit": "Activitie",
+    "categorieLabel": "Atelier",
+    "fournisseur": "Restaurant Dar Moha",
+    "ville": "Marrakech",
+    "tarifUHTPardefaut": 380,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Atelier Cuisine Marocaine",
+        "slogan": "De la médina à votre tagine",
+        "descriptifProduit": "Atelier de cuisine marocaine : marché aux épices, préparation d'un tajine et d'une pastilla avec un chef, puis dégustation. Repartez avec les recettes traditionnelles."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000013"
+    },
+    "refProduit": "EV-2024-MAR-01",
+    "typeProduit": "Event",
+    "categorieLabel": "Événement",
+    "fournisseur": "",
+    "ville": "Essaouira",
+    "dateEvent": "22 Juin",
+    "tarifUHTPardefaut": 0,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Festival des Gnaouas",
+        "slogan": "",
+        "descriptifProduit": "Célébration annuelle de la musique et de la culture gnaouie d'Essaouira : concerts, fusion et patrimoine immatériel."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000014"
+    },
+    "refProduit": "EV-2024-ATL-05",
+    "typeProduit": "Event",
+    "categorieLabel": "Événement",
+    "fournisseur": "",
+    "ville": "Imlil",
+    "dateEvent": "08 Juillet",
+    "tarifUHTPardefaut": 0,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Trek de la Solidarité",
+        "slogan": "",
+        "descriptifProduit": "Trek communautaire dans le Haut-Atlas au profit des écoles de montagne. Randonnée solidaire ouverte à tous."
+      }
+    ]
+  },
+  {
+    "_id": {
+      "$oid": "000000000000000000000015"
+    },
+    "refProduit": "EV-2024-MEK-02",
+    "typeProduit": "Event",
+    "categorieLabel": "Événement",
+    "fournisseur": "",
+    "ville": "Tafraoute",
+    "dateEvent": "15 Septembre",
+    "tarifUHTPardefaut": 0,
+    "imageProduit": "",
+    "etatDePublication": "code_3417",
+    "translations": [
+      {
+        "language": "fr",
+        "designationProduit": "Atelier Argan & Femmes",
+        "slogan": "",
+        "descriptifProduit": "Rencontre avec les coopératives berbères et démonstration de pressage à froid de l'huile d'argan."
+      }
+    ]
+  }
+]
